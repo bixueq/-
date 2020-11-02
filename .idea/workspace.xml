@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="QosSend" targetName="QosSend" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-hisiv400" CONFIG_NAME="Debug" TOOLCHAIN_NAME="hisiv400" />
+      <configuration PROFILE_NAME="hisiv600" CONFIG_NAME="Debug" TOOLCHAIN_NAME="hisiv600" />
+      <configuration PROFILE_NAME="himix100" CONFIG_NAME="Release" TOOLCHAIN_NAME="himix100" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6887e626-9291-49bb-953b-4cf279f6cc95" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="clangdShowErrors" value="false" />
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-hisiv400" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gwbtMlM6IyEttCzUglaBvYHVen" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rtmp_publisher" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Qos\rtmp_publisher" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Qos\lib\v400" />
+      <recent name="C:\Users\Administrator\Desktop\Qos\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="QosSend" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QosSend" TARGET_NAME="QosSend" CONFIG_NAME="Debug-hisiv400" RUN_TARGET_PROJECT_NAME="QosSend" RUN_TARGET_NAME="QosSend">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6887e626-9291-49bb-953b-4cf279f6cc95" name="默认的" comment="" />
+      <created>1599028816134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599028816134</updated>
+      <workItem from="1599028817418" duration="47030000" />
+      <workItem from="1599207393123" duration="242000" />
+      <workItem from="1599207668593" duration="343000" />
+      <workItem from="1599208310720" duration="44358000" />
+      <workItem from="1599630438742" duration="12435000" />
+      <workItem from="1600047481083" duration="1701000" />
+      <workItem from="1600049217907" duration="5636000" />
+      <workItem from="1600157596226" duration="12477000" />
+      <workItem from="1600239210228" duration="7823000" />
+      <workItem from="1600827013957" duration="90000" />
+      <workItem from="1600827123234" duration="2738000" />
+      <workItem from="1600915984449" duration="632000" />
+      <workItem from="1600995971502" duration="10663000" />
+      <workItem from="1602206161763" duration="712000" />
+      <workItem from="1602228799202" duration="2125000" />
+      <workItem from="1603099682029" duration="6691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="671" y="301" key="#Notifications" timestamp="1600049237153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="671" y="301" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1600049237153" />
+    <state x="432" y="78" key="#SSH_配置" timestamp="1600049288612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="432" y="78" key="#SSH_配置/0.0.1920.1040@0.0.1920.1040" timestamp="1600049288612" />
+    <state x="718" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1600161565478">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600161565478" />
+    <state x="687" y="221" key="FileChooserDialogImpl" timestamp="1603099711816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="221" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603099711816" />
+    <state x="344" y="78" key="SettingsEditor" timestamp="1602229139044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="344" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602229139044" />
+    <state x="614" y="198" width="1116" height="655" key="StructurePopup" timestamp="1603100062992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="621" y="226" width="675" height="655" key="StructurePopup.inPresentationMode" timestamp="1599123585383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="621" y="226" width="675" height="655" key="StructurePopup.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1599123585383" />
+    <state x="614" y="198" width="1116" height="655" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1603100062992" />
+    <state x="772" y="219" width="743" height="650" key="find.popup" timestamp="1603281557391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="772" y="219" width="743" height="650" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603281557391" />
+    <state x="835" y="186" key="ftp.server.browser" timestamp="1599029409696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="835" y="186" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1599029409696" />
+    <state x="532" y="-5" width="840" height="1034" key="search.everywhere.popup" timestamp="1600158528235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="-5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600158528235" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/QosConneter.h</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

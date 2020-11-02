@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Centos (5a4cb82e-d0b3-44f1-be8a-235501f9e177)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote GDB Server (c3f0ac71-364c-4a20-a778-084689f77b09)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="amd64 (c293b69e-16d1-492b-a309-6af50611c7be)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="himix100 (ed76d9c3-d8e9-4dda-99e8-a6afcc6d2ad3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.p86kyLP8mX" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-hisiv600" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-himix100" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-hisiv400" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="hisiv400 (3865e713-9f5e-4b55-a9cb-f1002f641f61)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/night/myshare/mywork/Clion/test" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-hisiv600" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-hisiv600" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-himix100" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-hisiv400" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-hisiv400" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="hisiv600 (e7ab5ba7-bccf-4394-ba00-05d252272d89)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/night/myshare/mywork/Clion/test" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-hisiv600" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-hisiv600" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-himix100" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-hisiv400" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-hisiv400" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

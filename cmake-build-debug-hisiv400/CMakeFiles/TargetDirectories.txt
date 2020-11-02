@@ -1,0 +1,3 @@
+/home/night/myshare/mywork/Clion/test/cmake-build-debug-hisiv400/CMakeFiles/edit_cache.dir
+/home/night/myshare/mywork/Clion/test/cmake-build-debug-hisiv400/CMakeFiles/rebuild_cache.dir
+/home/night/myshare/mywork/Clion/test/cmake-build-debug-hisiv400/CMakeFiles/QosSend.dir

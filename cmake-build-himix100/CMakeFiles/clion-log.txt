@@ -1,0 +1,4 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_C_COMPILER=/opt/hisi-linux/x86-arm/arm-himix100-linux/bin/arm-himix100-linux-gcc -DCMAKE_CXX_COMPILER=/opt/hisi-linux/x86-arm/arm-himix100-linux/bin/arm-himix100-linux-g++ -G "CodeBlocks - Unix Makefiles" /tmp/tmp.p86kyLP8mX
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/tmp.p86kyLP8mX/cmake-build-himix100

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="QosSend"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.p86kyLP8mX/cmake-build-himix100"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.p86kyLP8mX/cmake-build-himix100"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.p86kyLP8mX/cmake-build-himix100"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QosSend">
+				<Option output="/tmp/tmp.p86kyLP8mX/cmake-build-himix100/QosSend" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.p86kyLP8mX/cmake-build-himix100"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.p86kyLP8mX/./src"/>
+					<Add directory="/tmp/tmp.p86kyLP8mX/rtmp_publisher"/>
+					<Add directory="/tmp/tmp.p86kyLP8mX/lib/librtmp"/>
+					<Add directory="/opt/hisi-linux/x86-arm/arm-himix100-linux/host_bin/../lib/gcc/arm-linux-uclibceabi/6.3.0/../../../../arm-linux-uclibceabi/include/c++/6.3.0"/>
+					<Add directory="/opt/hisi-linux/x86-arm/arm-himix100-linux/host_bin/../lib/gcc/arm-linux-uclibceabi/6.3.0/../../../../arm-linux-uclibceabi/include/c++/6.3.0/arm-linux-uclibceabi"/>
+					<Add directory="/opt/hisi-linux/x86-arm/arm-himix100-linux/host_bin/../lib/gcc/arm-linux-uclibceabi/6.3.0/../../../../arm-linux-uclibceabi/include/c++/6.3.0/backward"/>
+					<Add directory="/opt/hisi-linux/x86-arm/arm-himix100-linux/host_bin/../lib/gcc/arm-linux-uclibceabi/6.3.0/include"/>
+					<Add directory="/opt/hisi-linux/x86-arm/arm-himix100-linux/host_bin/../lib/gcc/arm-linux-uclibceabi/6.3.0/include-fixed"/>
+					<Add directory="/opt/hisi-linux/x86-arm/arm-himix100-linux/host_bin/../lib/gcc/arm-linux-uclibceabi/6.3.0/../../../../arm-linux-uclibceabi/include"/>
+					<Add directory="/opt/hisi-linux/x86-arm/arm-himix100-linux/host_bin/../target/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 QosSend"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QosSend/fast">
+				<Option output="/tmp/tmp.p86kyLP8mX/cmake-build-himix100/QosSend" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.p86kyLP8mX/cmake-build-himix100"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.p86kyLP8mX/./src"/>
+					<Add directory="/tmp/tmp.p86kyLP8mX/rtmp_publisher"/>
+					<Add directory="/tmp/tmp.p86kyLP8mX/lib/librtmp"/>
+					<Add directory="/opt/hisi-linux/x86-arm/arm-himix100-linux/host_bin/../lib/gcc/arm-linux-uclibceabi/6.3.0/../../../../arm-linux-uclibceabi/include/c++/6.3.0"/>
+					<Add directory="/opt/hisi-linux/x86-arm/arm-himix100-linux/host_bin/../lib/gcc/arm-linux-uclibceabi/6.3.0/../../../../arm-linux-uclibceabi/include/c++/6.3.0/arm-linux-uclibceabi"/>
+					<Add directory="/opt/hisi-linux/x86-arm/arm-himix100-linux/host_bin/../lib/gcc/arm-linux-uclibceabi/6.3.0/../../../../arm-linux-uclibceabi/include/c++/6.3.0/backward"/>
+					<Add directory="/opt/hisi-linux/x86-arm/arm-himix100-linux/host_bin/../lib/gcc/arm-linux-uclibceabi/6.3.0/include"/>
+					<Add directory="/opt/hisi-linux/x86-arm/arm-himix100-linux/host_bin/../lib/gcc/arm-linux-uclibceabi/6.3.0/include-fixed"/>
+					<Add directory="/opt/hisi-linux/x86-arm/arm-himix100-linux/host_bin/../lib/gcc/arm-linux-uclibceabi/6.3.0/../../../../arm-linux-uclibceabi/include"/>
+					<Add directory="/opt/hisi-linux/x86-arm/arm-himix100-linux/host_bin/../target/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 QosSend/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.p86kyLP8mX/cmake-build-himix100/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/rtmp_publisher/RTMPPublisher.cpp">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/rtmp_publisher/RTMPPublisher.h">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/rtmp_publisher/nalu.cpp">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/rtmp_publisher/nalu.h">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/rtmp_publisher/rtmp_publisher.cpp">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/rtmp_publisher/rtmp_publisher.h">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/src/LiveManager.cpp">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/src/LiveManager.h">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/src/QosConneter.cpp">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/src/QosConneter.h">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/src/QosFrameReceiver.cpp">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/src/QosFrameReceiver.h">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/src/QosFrameSender.cpp">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/src/QosFrameSender.h">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/src/QosServer.cpp">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/src/QosServer.h">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/src/main.cpp">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/src/osthread.cpp">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/src/osthread.h">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/src/util.cpp">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/src/util.h">
+			<Option target="QosSend"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.p86kyLP8mX/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

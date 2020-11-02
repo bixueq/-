@@ -1,0 +1,4 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/opt/hisi-linux/x86-arm/arm-hisiv400-linux/target/bin/arm-hisiv400-linux-gcc -DCMAKE_CXX_COMPILER=/opt/hisi-linux/x86-arm/arm-hisiv400-linux/target/bin/arm-hisiv400-linux-g++ -G "CodeBlocks - Unix Makefiles" /home/night/myshare/mywork/Clion/test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/night/myshare/mywork/Clion/test/cmake-build-debug-hisiv400
